@@ -37,7 +37,7 @@
             </form>
         </div>
         <div class="right">
-            <img class="portada" src="img/Logo-Lanatita2.png" alt="">
+            <img class="portada" src="img/logoahuma2.jpg" alt="">
         </div>
     </div>
 </div>

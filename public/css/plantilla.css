@@ -166,12 +166,12 @@ sup {
   top: -.5em; }
 
 a {
-  color: #03045e;
+  color: #780116;
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects; }
   a:hover {
-    color: #167495;
+    color: #f7b538;
     text-decoration: underline; }
 
 a:not([href]):not([tabindex]) {
@@ -1917,7 +1917,7 @@ fieldset[disabled] a.btn {
   .btn-link:hover {
     border-color: transparent; }
   .btn-link:focus, .btn-link:hover {
-    color: #167495;
+    color: #f7b538;
     text-decoration: underline;
     background-color: transparent; }
   .btn-link:disabled {
@@ -2943,7 +2943,7 @@ tbody.collapse.show {
   background-color: #fff;
   border: 1px solid #ddd; }
   .page-link:focus, .pagination-datatables li a:focus, .pagination li a:focus, .page-link:hover, .pagination-datatables li a:hover, .pagination li a:hover {
-    color: #167495;
+    color: #f7b538;
     text-decoration: none;
     background-color: #c2cfd6;
     border-color: #ddd; }
@@ -7609,12 +7609,12 @@ base-chart.chart {
   background: #20a8d8; }
 
 .modal-primary .modal-content {
-  border-color: #03045e; }
+  border-color: #780116; }
   
 
 .modal-primary .modal-header {
   color: #fff;
-  background-color: #03045e; }
+  background-color: #780116; }
 
 .modal-secondary .modal-content {
   border-color: #a4b7c1; }
@@ -7695,7 +7695,7 @@ base-chart.chart {
   height: 55px;
   padding: 0;
   margin: 0;
-  background-color: #0077b6;
+  background-color: #d8572a;
   border-bottom: 1px solid #c2cfd6; }
   .app-header.navbar .navbar-brand {
     display: inline-block;
@@ -7704,9 +7704,9 @@ base-chart.chart {
     padding: 0.5rem 1rem;
     margin-right: 0;
     background-color: #fff;
-    background-image: url("../img/Logo-Lanatita2.png");
+    background-image: url("../img/logoahuma2.jpg");
     background-color: transparent;
-    background-image: url("../img/Logo-Lanatita2.png");
+    background-image: url("../img/logoahuma2.jpg");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: contain;
@@ -7821,7 +7821,7 @@ base-chart.chart {
   padding: 0;
   color: #fff;
   font-size: 14px;
-  background: #03045e;
+  background: #780116;
  }
   .sidebar .sidebar-close {
     position: absolute;
@@ -7934,7 +7934,7 @@ base-chart.chart {
         color: #20a8d8; }
     .sidebar .nav-link:hover, .sidebar .navbar .dropdown-toggle:hover, .navbar .sidebar .dropdown-toggle:hover {
       color: #fff;
-      background: #48cae4; }
+      background: #c32f27; }
       .sidebar .nav-link:hover i, .sidebar .navbar .dropdown-toggle:hover i, .navbar .sidebar .dropdown-toggle:hover i {
         color: #fff; }
       .sidebar .nav-link:hover.nav-dropdown-toggle::before, .sidebar .navbar .dropdown-toggle:hover.nav-dropdown-toggle::before, .navbar .sidebar .dropdown-toggle:hover.nav-dropdown-toggle::before {
